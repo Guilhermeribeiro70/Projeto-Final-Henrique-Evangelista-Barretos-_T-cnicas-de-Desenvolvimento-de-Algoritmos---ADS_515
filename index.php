@@ -1,0 +1,1 @@
+<?php header('Location: /academia7_php/public/index.php'); exit; ?>
